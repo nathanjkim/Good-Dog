@@ -1,0 +1,102 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   26.20.11016.1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.013 seconds
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\THINKPAD 2_18_2019 BACKUP\DOCUMENTS\Good Dog_Low_Poly\FinishedGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Water') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 0.571800 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3d04 -> priority: 1 
+  Thread -> id: 4654 -> priority: 1 
+  Thread -> id: 3904 -> priority: 1 
+  Thread -> id: d30 -> priority: 1 
+  Thread -> id: 4ae4 -> priority: 1 
+  Thread -> id: 484c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.831700 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2189.
+Total: 5.486900 ms (FindLiveObjects: 0.052800 ms CreateObjectMapping: 0.027900 ms MarkObjects: 0.158900 ms  DeleteObjects: 5.246200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.391600 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 0.237300 ms (FindLiveObjects: 0.030100 ms CreateObjectMapping: 0.027200 ms MarkObjects: 0.114800 ms  DeleteObjects: 0.064800 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Water') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.987100 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1102.
+Total: 9.907000 ms (FindLiveObjects: 0.025100 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.105400 ms  DeleteObjects: 9.758500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.983300 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1393.
+Total: 10.631200 ms (FindLiveObjects: 0.041700 ms CreateObjectMapping: 0.021900 ms MarkObjects: 0.138700 ms  DeleteObjects: 10.428200 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Water') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.940200 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 736.
+Total: 10.481000 ms (FindLiveObjects: 0.067400 ms CreateObjectMapping: 0.025400 ms MarkObjects: 0.147000 ms  DeleteObjects: 10.240100 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Water') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614900 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 762.
+Total: 0.132300 ms (FindLiveObjects: 0.017400 ms CreateObjectMapping: 0.016600 ms MarkObjects: 0.093600 ms  DeleteObjects: 0.004300 ms)
+
